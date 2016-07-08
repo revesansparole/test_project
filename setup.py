@@ -43,8 +43,8 @@ setup_kwds = dict(
 
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    install_requires=parse_requirements("requirements.txt"),
-    tests_require=parse_requirements("dvlpt_requirements.txt"),
+#    install_requires=parse_requirements("requirements.txt"),
+#    tests_require=parse_requirements("dvlpt_requirements.txt"),
     entry_points={},
     keywords='',
     test_suite='nose.collector',
