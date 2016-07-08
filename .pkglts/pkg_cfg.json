@@ -3,7 +3,7 @@
     "auto_install": true, 
     "install_front_end": "stdout", 
     "use_prompts": false, 
-    "version": 2
+    "version": 3
   }, 
   "base": {
     "authors": [
@@ -35,7 +35,10 @@
   "pysetup": {
     "intended_versions": [
       "27"
-    ]
+    ], 
+    "require": [["conda", "numpy"],
+                ["conda", "scipy"],
+                ["git", "openalea/deploy"]]
   }, 
   "test": {}, 
   "travis": {}, 
