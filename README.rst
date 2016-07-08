@@ -13,3 +13,4 @@ test_project
 
 belle petite description
 
+this project is only used for debug purpose!
