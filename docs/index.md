@@ -20,3 +20,6 @@ Reference-style:
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+image locale:
+![doubidou](_static/comment-bright.png "my very own comment")
