@@ -15,4 +15,6 @@ belle petite description
 
 this project is only used for debug purpose!
 
-Access to project documentation is here: [Here I said :)](https://revesansparole.github.io/test_project/)
+Access to project documentation is here: `Here I said :)`_
+
+.. _`Here I said :)`: https://revesansparole.github.io/test_project/
