@@ -14,3 +14,5 @@ test_project
 belle petite description
 
 this project is only used for debug purpose!
+
+Access to project documentation is here: [Here I said :)](https://revesansparole.github.io/test_project/)
