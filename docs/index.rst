@@ -5,14 +5,14 @@ Welcome to test_project's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
-   readme
-   installation
-   usage
-   contributing
-   authors
-   history
+    readme
+    installation
+    usage
+    contributing
+    authors
+    history
 
 Indices and tables
 ==================

@@ -37,6 +37,7 @@ setup_kwds = dict(
         "coverage",
         "mock",
         "nose",
+        "sphinx",
         ],
     entry_points={},
     keywords='',

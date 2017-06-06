@@ -42,6 +42,7 @@ install:
   - conda install coverage
   - conda install mock
   - conda install nose
+  - conda install sphinx
 
   - python setup.py install
 # #}
