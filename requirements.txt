@@ -3,8 +3,8 @@
 # edit .pkglts/pkg_cfg instead
 # section pysetup
 
+# pytest-cov
 # numpy
 # scipy
-# openalea/deploy
 
 # #}

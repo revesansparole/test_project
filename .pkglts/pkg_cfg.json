@@ -40,15 +40,15 @@
     "require": [
       [
         "conda",
+        "pytest-cov"
+      ],
+      [
+        "conda",
         "numpy"
       ],
       [
         "conda",
         "scipy"
-      ],
-      [
-        "git",
-        "openalea/deploy"
       ]
     ]
   },

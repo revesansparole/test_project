@@ -37,9 +37,9 @@ install:
   - source activate myenv
 
 
+  - conda install pytest-cov
   - conda install numpy
   - conda install scipy
-  - pip install git+https://github.com/openalea/deploy
   - conda install coverage
   - conda install mock
   - conda install nose
