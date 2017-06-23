@@ -40,6 +40,7 @@ install:
   - conda install pytest-cov
   - conda install numpy
   - conda install scipy
+  - conda install pytest
   - conda install coverage
   - conda install mock
   - conda install nose

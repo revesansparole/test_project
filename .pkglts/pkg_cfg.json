@@ -49,6 +49,10 @@
       [
         "conda",
         "scipy"
+      ],
+      [
+        "conda",
+        "pytest"
       ]
     ]
   },
