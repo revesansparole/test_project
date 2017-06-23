@@ -80,7 +80,7 @@ target/
 
 # svn
 .svn
-
+.cache/
 
 # coverage
 .coverage

@@ -3,14 +3,14 @@
     "coverage": "XEyUxurjjbyrIda0J9YxyTw8oYn8iIdIFfEkXgAvqCMj3H4V6ECiJZHVA1RTyoWd6dpWkZ+9Xq5IGcdKR3CRtQ=="
   },
   ".gitignore": {
-    "github": "wVVlsQPP65I5Gg6bW37JENFtYxO6Naq7x+mO0DaDGFVbMPk2o5QJ3DUwMoYfkOfou9lcR/6DC0MXr7hnrTWc9g=="
+    "github": "BajiufpLax6rf5dmemG7nvqJTLIyPShHtj2YTKyJ7vgPbEZrmsUMebpVX4WoruGBcRQwPOqS5fn5D/PjPmQErw=="
   },
   ".travis.yml": {
-    "travis": "p39laCS5PHN7gbwAtgU28Z+UXHRifGIORlali3ZkK7OQKjjRhn1Dbwscp76SZeocjKUEBtl3fI1857Ri37wPWQ==",
+    "travis": "qfBJIVni5lu88G6RNc70u9Z+1NUkKfvbyAy6bUG77z2c3StIWDb2Wrm+WOelQLzdLVQ6LwEi0wu2BCzyX+xbaA==",
     "travis.addons": "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==",
     "travis.after": "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==",
     "travis.install": "tpqyZ6BDpROdGx0QVL0WLvYDVcHW1Pb7zls8nmCBsb+zXOTsLkVVsQ3LRQn2wIQp8LPlMo98X8ML2SviuARTOQ==",
-    "travis.script": "STjpu3u3YoOeTz4mBIflZ58OodPdFRPFtLt6c8CUciNwe/fYhCTxlKTMB/S7VL1ippUsQVIfrFGl+OQ/ALWmPQ=="
+    "travis.script": "DuMVu20DK3x0WVdVZxihdiYnEkfDqmOlMUuCHohyYvi4fv3Ew8OeAca6AdKM/ZCSZvVS9tywx+PhPrmDexl6hg=="
   },
   "AUTHORS.rst": {
     "doc": "w6jfJjf36UAGY5xtLYQpKySd2EqWvvRiIPKeQFXiSTyCT3hLg/amjRE062vPZXvZTVKefknIXchZTe6xS0SCfQ=="
@@ -50,11 +50,11 @@
     "pysetup": "LbD8XV1IlrJWfKKprscdA3S+pbWzIvnYPizTeHKk+OI4wun/T2+j1mtU+S1ZV0d8JMORpNi2Dl4D5qgTGhKiHA=="
   },
   "setup.cfg": {
-    "pysetup": "3B013WlRGC6Azz/M5XqwZ8oU5fapb9VzuUzjD4KmnbJw/1vB8t/TpMlF1Nx3lJfyu9rAR6EQ3ng74/elbopAvg=="
+    "pysetup": "C5G2rsxeA0dYvk3YBK71qoUIxxoD+qycRuRibK+cI2nHDeCX7xtTOsAVHlNJ8tV3RI25Vo9WD6VY2A3uLLRVQw=="
   },
   "setup.py": {
     "pysetup.call": "2wHuP94SpWKZpqOzExkQGTxnhGPgBHK3qOdPn0Ncstj5FkZ7FBGGM/inqAXaI4QLKQtTNlOUYRGSkYUWAUcf1w==",
-    "pysetup.kwds": "AQ2Ewkn1cEpm0Qc5S8QSLCLnvJsXNwg+cOWQbqzVBRVBrIjAxZYe9Haq4IJkFpjlqItxHh9crVrYpeLt2Q2I6w=="
+    "pysetup.kwds": "Au8oHLsTQ8z3psntqbP2tLQxD34MErb/dI5kdG8j4n8F4IbyTxHi4vmR9QP67eJqKtRYGFotEU02eedv1141Kw=="
   },
   "src/test_project/__init__.py": {
     "base": "gR33dW0qqYmsV9NSNB+DD8XmuxnC2t0mKjnMoU5728qh97fSER6MbX+3QKxpZDLByZToaAay4xhx8acxketJmA=="

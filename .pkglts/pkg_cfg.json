@@ -3,7 +3,7 @@
     "auto_install": true,
     "install_front_end": "stdout",
     "use_prompts": false,
-    "version": 3
+    "version": 4
   },
   "base": {
     "authors": [
@@ -34,7 +34,8 @@
   },
   "pysetup": {
     "intended_versions": [
-      "27"
+      "27",
+      "36"
     ],
     "require": [
       [
@@ -55,7 +56,9 @@
     "autodoc_dvlpt": true,
     "theme": "default"
   },
-  "test": {},
+  "test": {
+    "suite_name": "pytest"
+  },
   "travis": {},
   "version": {
     "major": 0,

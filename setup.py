@@ -31,6 +31,9 @@ setup_kwds = dict(
 
     packages=find_packages('src'),
     package_dir={'': 'src'},
+    setup_requires=[
+        "pytest-runner",
+        ],
     install_requires=[
         ],
     tests_require=[
@@ -41,8 +44,7 @@ setup_kwds = dict(
         ],
     entry_points={},
     keywords='',
-    test_suite='nose.collector',
-)
+    )
 # #}
 # change setup_kwds below before the next pkglts tag
 
