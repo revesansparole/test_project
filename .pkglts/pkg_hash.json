@@ -9,7 +9,7 @@
     "travis": "qfBJIVni5lu88G6RNc70u9Z+1NUkKfvbyAy6bUG77z2c3StIWDb2Wrm+WOelQLzdLVQ6LwEi0wu2BCzyX+xbaA==",
     "travis.addons": "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==",
     "travis.after": "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==",
-    "travis.install": "nsOhyuLVYy0K3h4FcLWoPATuJ8/OKg1mlCJu0NQV0B4aNlTBRFc3XHW9trnWncEiu++jI6rBpnKs08H2IMjQvQ==",
+    "travis.install": "ls0vzgn89pte3Vvkq9dKvagwkXVvtYSCKOMkv3YOje/wZm0fOl4nmI/VSvg2w+/kN49QF+1AZ3V34+EKCabWuA==",
     "travis.script": "DuMVu20DK3x0WVdVZxihdiYnEkfDqmOlMUuCHohyYvi4fv3Ew8OeAca6AdKM/ZCSZvVS9tywx+PhPrmDexl6hg=="
   },
   "AUTHORS.rst": {
@@ -44,17 +44,17 @@
   "doc/readme.rst": {},
   "doc/usage.rst": {},
   "dvlpt_requirements.txt": {
-    "pysetup": "XWPKeIfT2RoNPeDhPDgWWOssKAjkq/OXoEfIpSs8vJrYkPahRrEs1qXFvqxzqoV09MjmnVg0zrG9m/wRXfrRxw=="
+    "pysetup": "8cCnUZa0LJeiPdJk9JEi+aJWQvKfgZe7e2Nms6rIDq+Vi/vRM61V0yRx902b+K4sjpA0kGTusI+rkMzDvCBwCQ=="
   },
   "requirements.txt": {
-    "pysetup": "ApUUbfAIt8fPpGWFbkaCvGK4Y9MQZyi4f/s/XubrTfYW3A7UF/3C2vWB074qGp7Gmk10LNMSwPc4KaHuh6abhw=="
+    "pysetup": "kP1SuPokt+c9Uk5VNNqvvQChx1B4GgSqoV/q9z/OUMnXZTws02fNHyBPGg14YjPT+gBtvZTjKhjhpC4utDdOFw=="
   },
   "setup.cfg": {
     "pysetup": "C5G2rsxeA0dYvk3YBK71qoUIxxoD+qycRuRibK+cI2nHDeCX7xtTOsAVHlNJ8tV3RI25Vo9WD6VY2A3uLLRVQw=="
   },
   "setup.py": {
     "pysetup.call": "2wHuP94SpWKZpqOzExkQGTxnhGPgBHK3qOdPn0Ncstj5FkZ7FBGGM/inqAXaI4QLKQtTNlOUYRGSkYUWAUcf1w==",
-    "pysetup.kwds": "Au8oHLsTQ8z3psntqbP2tLQxD34MErb/dI5kdG8j4n8F4IbyTxHi4vmR9QP67eJqKtRYGFotEU02eedv1141Kw=="
+    "pysetup.kwds": "jGkvTWSYMZLJBEd+JbfRsp8J0DjZXOTVizw8W2lzO8HHyiRsJrpHD/bxMHdwKd2x/lkzLNZQh1SRkyTwayxOxg=="
   },
   "src/test_project/__init__.py": {
     "base": "gR33dW0qqYmsV9NSNB+DD8XmuxnC2t0mKjnMoU5728qh97fSER6MbX+3QKxpZDLByZToaAay4xhx8acxketJmA=="

@@ -40,6 +40,8 @@ setup_kwds = dict(
         "coverage",
         "mock",
         "nose",
+        "pytest",
+        "pytest-cov",
         "sphinx",
         ],
     entry_points={},

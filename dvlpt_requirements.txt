@@ -2,6 +2,8 @@
 coverage
 mock
 nose
+pytest
+pytest-cov
 sphinx
 
 # #}
