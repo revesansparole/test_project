@@ -27,6 +27,12 @@
   "README.rst": {
     "doc": "W8ggYXlSHAg15lKGoVRfik5g5q5XkN7eROwr+y08P3knNcU81QTHV2JqcvT41uL6TuHCTenYajBauhHG26jLlw=="
   },
+  "appveyor.yml": {
+    "appveyor": "2lspN5ZIWVfgjmt4+k1aH9KcM5m4SXzvM8sdV/LTl6yM5N0D2XaI6lYzXhRoIQ43lLUL3SnWZLJvaUurIVSAOw=="
+  },
+  "appveyor_scripts.ps1": {
+    "appveyor": "HdiTMjGtis8VNyHfwqGBOjaDQZajmxcqAtNYMzKycmWHGjUpEEXIwvb1/ZCqiY9tDAh39PX+sf7tG4zTJ+0MXw=="
+  },
   "conda/meta.yaml": {
     "conda.about": "sqGbL6Culha5pRwqN7tN02Ikm1QbkzkV/ntwUepcn4ligYybIAao1O+z3U52A0djof/ekS48QwpWpErfxgWqcA==",
     "conda.package": "FfRDlqhf7slHcSnCirrhWbQXQtzTlFikp8UMysoKWrA1IV9naNkiCClF0l+oxyFqrQGOhaUEXb4QPYw6vUmtJA==",

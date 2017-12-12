@@ -1,3 +1,4 @@
+# {# pkglts, appveyor
 # Sample script to install Miniconda under Windows
 # Authors: Olivier Grisel, Jonathan Helmus and Kyle Kastner, Robert McGibbon
 # License: CC0 1.0 Universal: http://creativecommons.org/publicdomain/zero/1.0/
@@ -76,3 +77,4 @@ function main () {
 }
 
 main
+# #}
