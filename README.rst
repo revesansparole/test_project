@@ -10,7 +10,7 @@ test_project
     :target: https://travis-ci.org/revesansparole/test_project
 
 
-.. image:: https://ci.appveyor.com/api/projects/status//branch/master?svg=true
+.. image:: https://ci.appveyor.com/api/projects/status/gyh6cjhmgaw23dge/branch/master?svg=true
     :alt: Appveyor build status
     :target: https://ci.appveyor.com/project/revesansparole/test-project/branch/master
 
