@@ -17,6 +17,7 @@
     "pkgname": "test_project",
     "url": null
   },
+  "conda": {},
   "coverage": {},
   "doc": {
     "description": "belle petite description",

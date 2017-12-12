@@ -27,6 +27,11 @@
   "README.rst": {
     "doc": "W8ggYXlSHAg15lKGoVRfik5g5q5XkN7eROwr+y08P3knNcU81QTHV2JqcvT41uL6TuHCTenYajBauhHG26jLlw=="
   },
+  "conda/meta.yaml": {
+    "conda.about": "sqGbL6Culha5pRwqN7tN02Ikm1QbkzkV/ntwUepcn4ligYybIAao1O+z3U52A0djof/ekS48QwpWpErfxgWqcA==",
+    "conda.package": "FfRDlqhf7slHcSnCirrhWbQXQtzTlFikp8UMysoKWrA1IV9naNkiCClF0l+oxyFqrQGOhaUEXb4QPYw6vUmtJA==",
+    "conda.src": "HrwSleFu4NbgkAAkAfKBpsU5jaVQ83sYumDl1fUALX04VYq8s0OexqOusF2UQ/BxfHXQWGQEQ/0OBDbmkNE0Aw=="
+  },
   "doc/Makefile": {
     "sphinx": "C58jxdu8XJNOoaWOw7VWy4LwFmS8lTQt/JeZLt5JozMSJ503plOZchucx+vAEzELbx/Czs/h9pshe9s+9HeOeQ=="
   },
@@ -47,8 +52,14 @@
   "dvlpt_requirements.txt": {
     "pysetup": "ONHd7KJUHI6bXimIhJ5wQNBLkFxjrrx8QaUiAWX5VuehOEm8oScMVo6MBE1ir0kydnZQMPfVfE2xEsCIx0OQKA=="
   },
+  "dvlpt_requirements.yml": {
+    "conda": "Hx7KdOn5pnpeXGZGVT9ONQjQ2a471NFrP2FTa6/gR8wouml0xRpzWxBemUwaT5utGYsA9ToV2NWhiJ4j/ft3LQ=="
+  },
   "requirements.txt": {
     "pysetup": "XPQPBEv6QMBtAcL10wopxpMwaIv4TdUE3I4ugOWH8Hhz0GoGwkPwJeeVd2Psbf5WbM6dsEHTdXaiUMR2IsSHtA=="
+  },
+  "requirements.yml": {
+    "conda": "OmOUqc0QHlSaIl2RWcO7XZWwaBfnHKebjPgws1pDEoUQ4ZyoQ8iWnRT5FMahi2t8cGUqnURuJAfykYaYRyAyOw=="
   },
   "setup.cfg": {
     "pysetup": "m/quDXZQEtFLgrnJ7pdfL3/xk88nsOGjAFIj0iFVQYhHkM2bQh+qn7OtgVloEDpNR/0qqGWcAnSEHDi3kR91/Q=="

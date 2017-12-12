@@ -1,0 +1,29 @@
+# {# pkglts, conda.package
+package:
+  name: test_project
+  version: "0.1.0"
+# #}
+
+# {# pkglts, conda.src
+source:
+  path:
+    ../
+# #}
+
+requirements:
+  build:
+    - python
+    - setuptools
+
+  run:
+    - python
+
+build:
+  script: python setup.py install --single-version-externally-managed --record=record.txt
+
+# {# pkglts, conda.about
+about:
+  summary: "belle petite description"
+  license: "cecill-c"
+  license_file: LICENSE
+# #}
