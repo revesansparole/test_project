@@ -3,6 +3,5 @@
 # edit .pkglts/pkg_cfg instead
 # section pysetup
 
-#numpy  # conda install numpy
 
 # #}

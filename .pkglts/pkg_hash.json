@@ -9,7 +9,7 @@
     "travis": "qfBJIVni5lu88G6RNc70u9Z+1NUkKfvbyAy6bUG77z2c3StIWDb2Wrm+WOelQLzdLVQ6LwEi0wu2BCzyX+xbaA==",
     "travis.addons": "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==",
     "travis.after": "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==",
-    "travis.install": "i/i4O7OB7oh0wXLVl1epDn0rQiavkm3rj8PdNNTF/p5aSwXj5wgMO6mt1BUuv2ZIiINkevkSRD2Y+bdwwdaXQA==",
+    "travis.install": "n6n8hCCkwiR4/j4Yl5vQhvZzkwKQAKksWzIXsp1cRlgTdF4X6IfMaRHLw6wSrcn4rtJvjjEz+N3+z9pvDOFo4A==",
     "travis.script": "DuMVu20DK3x0WVdVZxihdiYnEkfDqmOlMUuCHohyYvi4fv3Ew8OeAca6AdKM/ZCSZvVS9tywx+PhPrmDexl6hg=="
   },
   "AUTHORS.rst": {
@@ -56,10 +56,10 @@
     "conda": "Hx7KdOn5pnpeXGZGVT9ONQjQ2a471NFrP2FTa6/gR8wouml0xRpzWxBemUwaT5utGYsA9ToV2NWhiJ4j/ft3LQ=="
   },
   "requirements.txt": {
-    "pysetup": "XPQPBEv6QMBtAcL10wopxpMwaIv4TdUE3I4ugOWH8Hhz0GoGwkPwJeeVd2Psbf5WbM6dsEHTdXaiUMR2IsSHtA=="
+    "pysetup": "/5djJXLbrvuFk7LIgtfgYR8RnQrY5BEmOB4zEd0PrKeswR/8sQkzj4yKy7Zl3LAdRzYjPDhWiRkS1oMCG4FX7Q=="
   },
   "requirements.yml": {
-    "conda": "OmOUqc0QHlSaIl2RWcO7XZWwaBfnHKebjPgws1pDEoUQ4ZyoQ8iWnRT5FMahi2t8cGUqnURuJAfykYaYRyAyOw=="
+    "conda": "ISh/T0VpJ0bj+o+hHaHJ9y+mCP4mRZvCAN7d66s/yhJHEScdChzM9pm0QWsh/ZgQuR4LBtHca9mmWuOdizfyFA=="
   },
   "setup.cfg": {
     "pysetup": "m/quDXZQEtFLgrnJ7pdfL3/xk88nsOGjAFIj0iFVQYhHkM2bQh+qn7OtgVloEDpNR/0qqGWcAnSEHDi3kR91/Q=="

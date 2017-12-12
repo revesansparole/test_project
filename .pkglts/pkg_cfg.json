@@ -41,12 +41,7 @@
       "27",
       "36"
     ],
-    "require": [
-      {
-        "name": "numpy",
-        "pkg_mng": "conda"
-      }
-    ]
+    "require": []
   },
   "sphinx": {
     "autodoc_dvlpt": true,

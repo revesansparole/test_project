@@ -37,7 +37,6 @@ install:
   - source activate myenv
 
 
-  - conda install numpy
   - conda install coverage
   - conda install pytest
   - conda install pytest-cov
