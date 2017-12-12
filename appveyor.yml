@@ -23,9 +23,15 @@ build: false
 build_script:
  # mostly to ensure commit
  - conda config --set always_yes yes --set changeps1 no
+ - conda update -q conda
+ # useful for debugging any issues with conda
+ - conda info -a
+ # create environment
  - conda create -n ci python
  - activate ci
+ # install dependencies and package
  - conda env update --file requirements.yml
  - conda env update --file dvlpt_requirements.yml
  - python setup.py install
+ # test
  - pytest
