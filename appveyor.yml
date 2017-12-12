@@ -1,9 +1,9 @@
 environment:
   global:
     # SDK v7.0 MSVC Express 2008's SetEnv.cmd script will fail if the
-    # /E:ON and /V:ON options are not enabled in the batch script intepreter
+    # /E:ON and /V:ON options are not enabled in the batch script interpreter
     # See: http://stackoverflow.com/a/13751649/163740
-    CMD_IN_ENV: "cmd /E:ON /V:ON /C .\\continuous-integration\\appveyor\\run_with_env.cmd"
+    CMD_IN_ENV: "cmd /E:ON /V:ON /C"
 
   matrix:
     - PYTHON: "C:\\Python36_64"
@@ -14,14 +14,8 @@ environment:
 
 install:
   # this installs the appropriate Miniconda (Py2/Py3, 32/64 bit),
-  # as well as pip, conda-build, and the binstar CLI
-  - powershell .\\install.ps1
+  - powershell .\\appveyor_scripts.ps1
   - "SET PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%"
-
-build: false
-
-build_script:
- # mostly to ensure commit
  - conda config --set always_yes yes --set changeps1 no
  - conda update -q conda
  # useful for debugging any issues with conda
@@ -29,6 +23,10 @@ build_script:
  # create environment
  - conda create -n ci python
  - activate ci
+
+build: false
+
+build_script:
  # install dependencies and package
  - conda env update --file requirements.yml
  - conda env update --file dvlpt_requirements.yml
