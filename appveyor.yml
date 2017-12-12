@@ -23,4 +23,5 @@ build: false
 build_script:
  # mostly to ensure commit
  - conda create -n tutu python
+ - dir
  - pytest
