@@ -23,6 +23,9 @@ build: false
 build_script:
  # mostly to ensure commit
  - conda config --set always_yes yes --set changeps1 no
- - conda create -n tutu python
- - dir
+ - conda create -n ci python
+ - activate ci
+ - conda env update --file requirements.yml
+ - conda env update --file dvlpt_requirements.yml
+ - python setup.py install
  - pytest
