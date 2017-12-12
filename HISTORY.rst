@@ -1,9 +1,8 @@
-.. _changelog:
-
+=======
 History
 =======
 
-creation (TODAY)
+creation (2017-12-12)
 ------------------------
 
 * First release on PyPI.

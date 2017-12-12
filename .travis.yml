@@ -38,12 +38,10 @@ install:
 
 
   - conda install numpy
-  - conda install scipy
   - conda install coverage
-  - conda install mock
-  - conda install nose
   - conda install pytest
   - conda install pytest-cov
+  - conda install pytest-mock
   - conda install sphinx
 
   - python setup.py install

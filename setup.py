@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 short_descr = "belle petite description"
 readme = open('README.rst').read()
-history = open('HISTORY.rst').read().replace('.. :changelog:', '')
+history = open('HISTORY.rst').read()
 
 
 # find version number in src/test_project/version.py
@@ -17,19 +17,23 @@ version = {}
 with open("src/test_project/version.py") as fp:
     exec(fp.read(), version)
 
+# find packages
+pkgs = find_packages('src')
+
+
 
 setup_kwds = dict(
     name='test_project',
     version=version["__version__"],
     description=short_descr,
     long_description=readme + '\n\n' + history,
-    author="revesansparole, ",
-    author_email="revesansparole@gmail.com, ",
+    author="revesansparole",
+    author_email="revesansparole@gmail.com",
     url='https://github.com/revesansparole/test_project',
     license='cecill-c',
     zip_safe=False,
 
-    packages=find_packages('src'),
+    packages=pkgs,
     package_dir={'': 'src'},
     setup_requires=[
         "pytest-runner",
@@ -38,10 +42,9 @@ setup_kwds = dict(
         ],
     tests_require=[
         "coverage",
-        "mock",
-        "nose",
         "pytest",
         "pytest-cov",
+        "pytest-mock",
         "sphinx",
         ],
     entry_points={},

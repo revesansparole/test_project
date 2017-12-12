@@ -3,7 +3,7 @@
     "auto_install": true,
     "install_front_end": "stdout",
     "use_prompts": false,
-    "version": 4
+    "version": 11
   },
   "base": {
     "authors": [
@@ -13,14 +13,17 @@
       ]
     ],
     "namespace": null,
+    "namespace_method": "pkg_util",
     "pkgname": "test_project",
     "url": null
   },
   "coverage": {},
   "doc": {
     "description": "belle petite description",
+    "fmt": "rst",
     "keywords": []
   },
+  "git": {},
   "github": {
     "owner": "{{ base.authors[0][0] }}",
     "project": "{{ base.pkgname }}",
@@ -38,18 +41,15 @@
       "36"
     ],
     "require": [
-      [
-        "conda",
-        "numpy"
-      ],
-      [
-        "conda",
-        "scipy"
-      ]
+      {
+        "name": "numpy",
+        "pkg_mng": "conda"
+      }
     ]
   },
   "sphinx": {
     "autodoc_dvlpt": true,
+    "build_dir": "build/sphinx",
     "theme": "default"
   },
   "test": {
